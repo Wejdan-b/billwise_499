@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063004541125",
+    "project_id": "billwise499",
+    "storage_bucket": "billwise499.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063004541125:android:7b3d20fd615d73c397a0ac",
+        "android_client_info": {
+          "package_name": "com.example.billwise_499"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIFOEThLa6lVEDZ_Pbu3pFvULtsMyaynM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
